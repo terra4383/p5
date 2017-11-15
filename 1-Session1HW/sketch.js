@@ -265,44 +265,90 @@ function draw() {
 
   // Shape 22
   beginShape ();
-  fill ();
+  fill (101, 115, 101);
   noStroke ();
-  vertex ();
+  vertex (468.92, 0);
+  vertex (1024, 0);
+  vertex (555.06, 128.39);
+  vertex (788.99, 229);
+  vertex (641.25, 278.78);
+  vertex (1024, 436.9);
+  vertex (1024, 502.32);
+  vertex (542.17, 497.65);
   endShape ();
 
   // Shape 23
   beginShape ();
-  fill ();
+  fill (104, 133, 107);
   noStroke ();
-  vertex ();
+  vertex (468.92, 0);
+  vertex (684.66, 0);
+  vertex (576.57, 42.64);
+  vertex (736.05, 77.18);
+  vertex (555.06, 128.39);
+  vertex (692.65, 187.84);
+  vertex (532.92, 229.65);
+  vertex (728.72, 316.16);
+  vertex (626.43, 348.22);
+  vertex (955.77, 502.32);
+  vertex (542.17, 494.65);
+  vertex (486.38, 117.87);
   endShape ();
 
   // Shape 24
   beginShape ();
-  fill ();
+  fill (68, 74, 51);
   noStroke ();
-  vertex ();
+  vertex (468.92, 0);
+  vertex (684.66, 0);
+  vertex (502.22, 71.97);
+  vertex (606.47, 113.84);
+  vertex (504.88, 143.95);
+  vertex (598.74, 211.34);
+  vertex (532.91, 229);
+  vertex (634.06, 297.05);
+  vertex (542.17, 317.99);
+  vertex (892.41, 501.32);
+  vertex (726.06, 499.32);
+  vertex (523.75, 369.47);
   endShape ();
 
   // Shape 25
   beginShape ();
-  fill ();
+  fill (15, 11, 5);
   noStroke ();
-  vertex ();
+  vertex (523.75, 369.47);
+  vertex (725.04, 499.32);
+  vertex (542.17, 494.65);
   endShape ();
 
   // Shape 26
   beginShape ();
-  fill ();
+  fill (119, 89, 85);
   noStroke ();
-  vertex ();
+  vertex (555.06, 128.39);
+  vertex (1024, 0);
+  vertex (1024, 138.71);
+  vertex (788.99, 229);
   endShape ();
 
   // Shape 27
   beginShape ();
-  fill ();
+  fill (99, 109, 96);
   noStroke ();
-  vertex ();
+  vertex (643.29, 278.78);
+  vertex (788.99, 229);
+  vertex (1024, 338.93);
+  vertex (1024, 436.9);
+  endShape ();
+
+  // Shape 28
+  beginShape ();
+  fill (173, 162, 134);
+  noStroke ();
+  vertex (788.99, 229);
+  vertex (1024, 138.71);
+  vertex (1024, 338.93);
   endShape ();
 
 }
